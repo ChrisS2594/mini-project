@@ -1,9 +1,9 @@
 let waitingArray = [
     {
-        customerName:"",
-        customerEmail:"",
-        customerID:"",
-        phoneNumber:"",
+        customerName:"Micheal Madrid",
+        customerEmail:"Mmadrid@gmail.com",
+        customerID:"stuffandthings",
+        phoneNumber:"000-000-0000",
 
 
     }

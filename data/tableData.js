@@ -1,8 +1,8 @@
 let tableArray = [{
-    customerName: "",
-    customerEmail: "",
-    customerID: "",
-    phoneNumber: "",
+    customerName: "Robert Chavez",
+    customerEmail: "Rchavez@gmail.com",
+    customerID: "RCtheDEv",
+    phoneNumber: "000-000-0000",
 
 }];
 
